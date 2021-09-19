@@ -1,7 +1,7 @@
 # [AIML Conference: December 2-3, 2021](https://www.fox.temple.edu/institutes-centers/global-center-for-big-data-and-mobile-analytics/conferences/2021-conference-on-artificial-intelligence-machine-learning-and-business-analytics/?fbclid=IwAR2lYSXT5es-xpo45v3OHttiXDbd-BRt6AR34HB9mtGv2S1GBtcWV-XJ_yg)
-**Virtual on Zoom**
+**Virtual on Zoom**\
 **[Conference Page](https://www.fox.temple.edu/institutes-centers/global-center-for-big-data-and-mobile-analytics/conferences/2021-conference-on-artificial-intelligence-machine-learning-and-business-analytics/?fbclid=IwAR2lYSXT5es-xpo45v3OHttiXDbd-BRt6AR34HB9mtGv2S1GBtcWV-XJ_yg)**\
-**[FB Link](https://www.facebook.com/events/275305314235146)**\
+**[FB Link](https://www.facebook.com/events/275305314235146)**
 
 Over five billion people worldwide actively engage with AI, bots, machine-to-machine connected solutions, wearables, Internet-of-Things, 5G, AR/VR, Fintech, Mooc, and blockchain. This conference will explore how digital, social, and mobile technologies affect business models, customer behavior, public policy, and social changes at large. Exemplar topics include:
 
