@@ -1,4 +1,4 @@
-# AIML Conference: December 2-3, 2021
+# [AIML Conference: December 2-3, 2021](https://www.facebook.com/events/275305314235146)
 **Virtual on Zoom**
 
 Over five billion people worldwide actively engage with AI, bots, machine-to-machine connected solutions, wearables, Internet-of-Things, 5G, AR/VR, Fintech, Mooc, and blockchain. This conference will explore how digital, social, and mobile technologies affect business models, customer behavior, public policy, and social changes at large. Exemplar topics include:
