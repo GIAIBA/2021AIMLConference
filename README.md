@@ -1,5 +1,5 @@
 # AIML Conference: December 2-3, 2021
-## Virtual on Zoom
+**Virtual on Zoom**
 
 Over five billion people worldwide actively engage with AI, bots, machine-to-machine connected solutions, wearables, Internet-of-Things, 5G, AR/VR, Fintech, Mooc, and blockchain. This conference will explore how digital, social, and mobile technologies affect business models, customer behavior, public policy, and social changes at large. Exemplar topics include:
 
@@ -49,20 +49,20 @@ This annual conference was hosted at Chicago Booth in 2014, NYU Stern in 2015 an
 See last year conf program [here](https://www.fox.temple.edu/institutes-centers/global-center-for-big-data-and-mobile-analytics/conferences/2020-conference-on-artificial-intelligence-machine-learning-and-business-analytics/).
 
 Conference Tentative Schedule
-Thursday, Dec 2, 2021
-9 AM – 10.30 AM: Plenary Session 1
-10.30 AM – 11 AM: Coffee Break
-11 AM – 12.30 PM: Concurrent Sessions 1
-12.30 PM – 1.30 PM: Lunch Break
-1.30 PM – 3.00 PM: Plenary Session 2
-3.00 PM – 3.30 PM: Coffee Break
-3.30 PM – 5 PM: Concurrent Sessions 2
+Thursday, Dec 2, 2021\
+9 AM – 10.30 AM: Plenary Session 1\
+10.30 AM – 11 AM: Coffee Break\
+11 AM – 12.30 PM: Concurrent Sessions 1\
+12.30 PM – 1.30 PM: Lunch Break\
+1.30 PM – 3.00 PM: Plenary Session 2\
+3.00 PM – 3.30 PM: Coffee Break\
+3.30 PM – 5 PM: Concurrent Sessions 2\
 
-Friday, Dec 3, 2021
-9 AM – 10.30 AM: Plenary Session 3
-10.30 AM – 11 AM: Coffee Break
-11 AM – 12.30 PM: Concurrent Sessions 3
-12.30 PM – 1.30 PM: Lunch Break
-1.30 PM – 3.00 PM: Plenary Session 4
-3.00 PM – 3.30 PM: Coffee Break
-3.30 PM – 5 PM: Concurrent Sessions 4
+Friday, Dec 3, 2021\
+9 AM – 10.30 AM: Plenary Session 3\
+10.30 AM – 11 AM: Coffee Break\
+11 AM – 12.30 PM: Concurrent Sessions 3\
+12.30 PM – 1.30 PM: Lunch Break\
+1.30 PM – 3.00 PM: Plenary Session 4\
+3.00 PM – 3.30 PM: Coffee Break\
+3.30 PM – 5 PM: Concurrent Sessions 4\
