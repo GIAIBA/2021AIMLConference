@@ -58,7 +58,7 @@ Thursday, Dec 2, 2021\
 12.30 PM – 1.30 PM: Lunch Break\
 1.30 PM – 3.00 PM: Plenary Session 2\
 3.00 PM – 3.30 PM: Coffee Break\
-3.30 PM – 5 PM: Concurrent Sessions 2\
+3.30 PM – 5 PM: Concurrent Sessions 2
 
 Friday, Dec 3, 2021\
 9 AM – 10.30 AM: Plenary Session 3\
@@ -67,4 +67,4 @@ Friday, Dec 3, 2021\
 12.30 PM – 1.30 PM: Lunch Break\
 1.30 PM – 3.00 PM: Plenary Session 4\
 3.00 PM – 3.30 PM: Coffee Break\
-3.30 PM – 5 PM: Concurrent Sessions 4\
+3.30 PM – 5 PM: Concurrent Sessions 4
