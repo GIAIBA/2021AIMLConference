@@ -1,5 +1,5 @@
 # [AIML Conference: December 2-3, 2021](https://www.fox.temple.edu/institutes-centers/global-center-for-big-data-and-mobile-analytics/conferences/2021-conference-on-artificial-intelligence-machine-learning-and-business-analytics/?fbclid=IwAR2lYSXT5es-xpo45v3OHttiXDbd-BRt6AR34HB9mtGv2S1GBtcWV-XJ_yg)
-**Virtual on Zoom**\
+**Virtual on Zoom**
 **[Conference Page](https://www.fox.temple.edu/institutes-centers/global-center-for-big-data-and-mobile-analytics/conferences/2021-conference-on-artificial-intelligence-machine-learning-and-business-analytics/?fbclid=IwAR2lYSXT5es-xpo45v3OHttiXDbd-BRt6AR34HB9mtGv2S1GBtcWV-XJ_yg)**\
 **[FB Link](https://www.facebook.com/events/275305314235146)**\
 
